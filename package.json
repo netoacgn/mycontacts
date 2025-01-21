@@ -6,6 +6,9 @@
   "repository": "https://github.com/netoacgn/mycontacts.git",
   "author": "Antonio <acgomesn@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
     "express": "^4.21.2"
   },
