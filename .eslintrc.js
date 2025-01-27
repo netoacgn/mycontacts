@@ -11,6 +11,8 @@ module.exports = {
     "ecmaVersion": 15
   },
   "rules": {
-    "class-methods-use-this": "off"
+    "class-methods-use-this": "off",
+    "no-promise-executor-return": "off",
+    "consistent-return": "off"
   }
 };
